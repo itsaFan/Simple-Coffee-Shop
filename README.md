@@ -1,5 +1,5 @@
 # Simple-Coffee-Shop
-A Front-end website for coffee shop created using html, bootstrap, javascript, &amp; data-aos.
+A Front-end website for coffee shop created using html, bootstrap, javascript
 
 <p align="center">
   <img src="./assets/mics/banner.jpg" width="850" title="hover text">
